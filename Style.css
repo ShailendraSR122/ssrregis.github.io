@@ -1,0 +1,105 @@
+
+
+.column-1{
+   
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    border: 2px solid red;
+    border-color: coral;
+    padding-bottom: 20px;
+    background-image: url(Images/Orange%20Mountain.jpg);
+    background-size: cover;
+}
+
+
+
+.column-1 h1{
+    text-align: center;
+}
+
+
+.star{
+    color: orangered;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.material-icons{
+    position: absolute;
+    color: #001E6C;
+    margin-left: 400px;
+}
+
+
+
+
+.label-text{
+   font-size: 14px;
+    font-weight: 600;
+    margin-left: 435px;
+    
+    
+}
+
+.if-any{
+    font-size: 12px;
+}
+
+.all-input{
+    float: right;
+    margin-right: 420px;
+}
+
+.hero-btn{
+    width: 100px;
+    height: 40px;
+    margin-left: 560px;
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    border: 2px solid #001E6C;
+    background: transparent;
+    
+    
+}
+
+.hero-btn:hover{
+    background-color: deepskyblue;
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+}
+
+.footer{
+    text-align: center;
+    font-size: 12px;
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
